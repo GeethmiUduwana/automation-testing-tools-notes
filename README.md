@@ -25,7 +25,7 @@ This repository contains notes and study materials about Automation Testing Tool
 
 Automation Testing is the process of using software tools to execute test cases automatically without manual intervention.
 
-Automation helps improve:
+Automation helps improve:-
 - Speed
 - Accuracy
 - Efficiency
