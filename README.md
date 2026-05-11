@@ -9,9 +9,9 @@ This repository contains notes and study materials about Automation Testing Tool
 - Introduction to Automation Testing.
 - Advantages and Disadvantages.
 - Types of Automation Tools.
-- Selenium
-- Cypress
-- Appium
+- Selenium.
+- Cypress.
+- Appium.
 - JMeter
 - Postman
 - Selenium vs Cypress
