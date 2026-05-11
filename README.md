@@ -12,9 +12,9 @@ This repository contains notes and study materials about Automation Testing Tool
 - Selenium.
 - Cypress.
 - Appium.
-- JMeter
-- Postman
-- Selenium vs Cypress
+- JMeter.
+- Postman.
+- Selenium vs Cypress.
 - Automation Frameworks
 - CI/CD Integration
 - Real-world Usage
