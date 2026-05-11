@@ -15,9 +15,9 @@ This repository contains notes and study materials about Automation Testing Tool
 - JMeter.
 - Postman.
 - Selenium vs Cypress.
-- Automation Frameworks
-- CI/CD Integration
-- Real-world Usage
+- Automation Frameworks.
+- CI/CD Integration.
+- Real-world Usage.
 
 ---
 
